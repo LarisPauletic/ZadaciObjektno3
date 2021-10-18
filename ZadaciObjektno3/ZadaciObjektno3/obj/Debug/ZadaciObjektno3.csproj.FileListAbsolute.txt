@@ -1,0 +1,7 @@
+C:\Users\Učenik6\source\repos\ZadaciObjektno3\ZadaciObjektno3\bin\Debug\ZadaciObjektno3.exe.config
+C:\Users\Učenik6\source\repos\ZadaciObjektno3\ZadaciObjektno3\bin\Debug\ZadaciObjektno3.exe
+C:\Users\Učenik6\source\repos\ZadaciObjektno3\ZadaciObjektno3\bin\Debug\ZadaciObjektno3.pdb
+C:\Users\Učenik6\source\repos\ZadaciObjektno3\ZadaciObjektno3\obj\Debug\ZadaciObjektno3.csproj.CoreCompileInputs.cache
+C:\Users\Učenik6\source\repos\ZadaciObjektno3\ZadaciObjektno3\obj\Debug\ZadaciObjektno3.exe
+C:\Users\Učenik6\source\repos\ZadaciObjektno3\ZadaciObjektno3\obj\Debug\ZadaciObjektno3.pdb
+C:\Users\Učenik6\source\repos\ZadaciObjektno3\ZadaciObjektno3\obj\Debug\ZadaciObjektno3.csprojAssemblyReference.cache
